@@ -1,4 +1,4 @@
-# King-Von-3DS-Stuff
+# King Von 3DS stuff
 King Von theme and splash for the 3DS
 
 ## Installation
